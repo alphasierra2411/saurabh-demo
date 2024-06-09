@@ -1,3 +1,3 @@
 # saurabh-demo
 This is my first git repository
-WHAT FO YOU THINK
+WHAT DO YOU THINK
